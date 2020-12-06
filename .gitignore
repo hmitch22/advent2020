@@ -1,2 +1,6 @@
-day_*/venv
-day_*/.idea
+day_*/venv/
+day_*/.idea/
+day_*/Include/
+day_*/Lib/
+day_*/Scripts/
+day_*/pyvenv.cfg
