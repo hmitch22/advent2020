@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     print("\nPart B:")
     for i in range(1, len(sys.argv)):
-        solution = part_b(sys.argv[i], 30000000)
+        solution = part_a(sys.argv[i], 30000000)
 
         if solution is None:
             print("Unable to find solution for file", sys.argv[i])
